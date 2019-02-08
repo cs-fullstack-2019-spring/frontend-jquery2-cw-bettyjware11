@@ -1,0 +1,12 @@
+/*created to change background to purple when hello class is clicked*/
+.hello
+{
+    background-color: purple;
+}
+/*created to change height and width of text to 20px when mouse is over*/
+.h1hw
+{
+    height: 20px;
+    width: 20px;
+}
+
